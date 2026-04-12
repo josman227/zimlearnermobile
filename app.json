@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "authentic-red-cookies",
+    "slug": "snack-ef34ec29-a40a-40f8-88a7-a231c373606e",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5be3c52b-4121-45e8-824e-b9b4822c042d"
+      }
+    },
+    "owner": "josiahmutinhiri"
+  }
+}
