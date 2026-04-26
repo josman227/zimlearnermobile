@@ -4,11 +4,11 @@
     "slug": "snack-ef34ec29-a40a-40f8-88a7-a231c373606e",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/adaptive-icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/icon.png",
+      "image": "./assets/adaptive-icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#111184"
     },
@@ -23,7 +23,7 @@
       "package": "com.josiahmutinhiri.snackef34ec29a40a40f888a7a231c373606e"
     },
     "web": {
-      "favicon": "./assets/icon.png"
+      "favicon": "./assets/adaptive-icon.png"
     },
     "extra": {
       "eas": {
